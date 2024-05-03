@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T13:40:23 IST" name="Default suite" finished-at="2024-04-24T13:40:33 IST" duration-ms="9975">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T13:40:23 IST" name="Default test" finished-at="2024-04-24T13:40:33 IST" duration-ms="9975">
+      <class name="testNG.TestNgDemo">
+        <test-method is-config="true" signature="bSuite()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:23 IST" name="bSuite" finished-at="2024-04-24T13:40:23 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bSuite -->
+        <test-method is-config="true" signature="bTest()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:23 IST" name="bTest" finished-at="2024-04-24T13:40:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method is-config="true" signature="bClass()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:23 IST" name="bClass" finished-at="2024-04-24T13:40:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method is-config="true" signature="bMethod()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:23 IST" name="bMethod" finished-at="2024-04-24T13:40:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method signature="chromeBrowserTest()[pri:1, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:23 IST" name="chromeBrowserTest" description="This test case 1" finished-at="2024-04-24T13:40:27 IST" duration-ms="3516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeBrowserTest -->
+        <test-method is-config="true" signature="aMethod()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:27 IST" name="aMethod" finished-at="2024-04-24T13:40:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method is-config="true" signature="bMethod()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:27 IST" name="bMethod" finished-at="2024-04-24T13:40:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method signature="firefoxBrowserTest()[pri:2, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:27 IST" name="firefoxBrowserTest" finished-at="2024-04-24T13:40:33 IST" duration-ms="6400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxBrowserTest -->
+        <test-method is-config="true" signature="aMethod()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:33 IST" name="aMethod" finished-at="2024-04-24T13:40:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method is-config="true" signature="AaClass()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:33 IST" name="AaClass" finished-at="2024-04-24T13:40:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AaClass -->
+        <test-method is-config="true" signature="aTest()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:33 IST" name="aTest" finished-at="2024-04-24T13:40:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method is-config="true" signature="aSuite()[pri:0, instance:testNG.TestNgDemo@6b81ce95]" started-at="2024-04-24T13:40:33 IST" name="aSuite" finished-at="2024-04-24T13:40:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSuite -->
+      </class> <!-- testNG.TestNgDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
